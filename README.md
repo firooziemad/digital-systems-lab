@@ -1,5 +1,3 @@
-# Writing the improved README content to a .md file
-improved_readme_content = """
 # Digital Systems Lab
 
 This repository contains Verilog code for the lab assignments of the Digital Systems course. The designs were simulated using **ModelSim** software and implemented on the **Zynq-7000 SoC** board using **Xilinx Vivado**.
