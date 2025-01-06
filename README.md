@@ -13,7 +13,7 @@ The project is organized into several folders for clarity and ease of use:
   - **Top module:** A reusable top-level design.
   - **Hex-to-7-segment decoder:** A common module used in multiple labs.
 
-- **`LabXX/`**  
+- **`LabX/`**  
   Each lab folder is named according to the corresponding lab session (e.g., `Lab1`, `Lab3`, `Lab4`, etc.) and contains:
   - **`hdl/`**: Verilog source files specific to the lab.
   - Supporting documents, such as lab instructions and agendas.
