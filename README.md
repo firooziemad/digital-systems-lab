@@ -1,25 +1,20 @@
-# Digital Systems Lab
-
-This repository contains Verilog code for the lab assignments of the Digital Systems course. The designs were simulated using **ModelSim** software and implemented on the **Zynq-7000 SoC** board using **Xilinx Vivado**.
-
----
+# Digital Systems Lab Assignments (Zynq-7000 SoC)
 
 ## 📂 Repository Structure
-The project is organized into several folders for clarity and ease of use:
 
-- **`common/`**  
-  Contains shared resources such as:
-  - **Constraints file:** Used across all labs.
-  - **Top module:** A reusable top-level design.
-  - **Hex-to-7-segment decoder:** A common module used in multiple labs.
+- **`common/`**: Shared resources (constraints file, top module, hex-to-7-segment decoder).
+- **`LabX/`**: Each lab folder includes Verilog files and supporting documentation.
 
-- **`LabX/`**  
-  Each lab folder is named according to the corresponding lab session (e.g., `Lab1`, `Lab3`, `Lab4`, etc.) and contains:
-  - **`hdl/`**: Verilog source files specific to the lab.
-  - Supporting documents, such as lab instructions and agendas.
+## 🛠️ Tools and Technologies
 
----
-
-## 🛠️ Tools Used
 - **ModelSim**: For Verilog simulation and functional verification.
-- **Xilinx Vivado**: For synthesis, implementation, and programming on the Zynq-7000 SoC board.
+- **Xilinx Vivado**: For synthesis, implementation, and programming on Zynq-7000 SoC.
+- **Verilog**: Hardware description language for circuit design.
+
+## 🚀 Project Overview
+
+Developed Verilog-based digital circuits for various lab assignments. Designs were simulated in **ModelSim** and implemented on **Zynq-7000 SoC** using **Xilinx Vivado**.
+
+## 👨‍💻 Supervisor
+
+- **Dr. Mohammad Reza Movahedin**
