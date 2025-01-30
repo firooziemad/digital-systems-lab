@@ -1,4 +1,4 @@
-# Digital Systems Lab Assignments (Zynq-7000 SoC)
+# Digital Systems Lab
 
 ## 📂 Repository Structure
 
